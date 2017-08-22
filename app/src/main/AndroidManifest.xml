@@ -30,8 +30,7 @@
         <activity android:name="com.asus.myapplication.ui.activity.NewsActivity"/>
         <activity android:name="com.asus.myapplication.Imageloader.SelectPhotoActivity"></activity>
         <activity android:name="com.asus.myapplication.Imageloader.MainActivity"></activity>
-        <activity android:name=".setting.AboutActivity"></activity>
-        <activity android:name=".setting.SetmainActivity"></activity>
+     
 
     </application>
 
